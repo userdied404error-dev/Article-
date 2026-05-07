@@ -13,7 +13,7 @@
 
    <img 
       class="hero-image"
-      src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvOyXbPXczTFLztUhVl7re9ItTYcXh5l3MDs8koQULDg&s=10"
       alt="Eiffel Tower"
     />
 
